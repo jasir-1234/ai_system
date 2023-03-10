@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211913645742",
+    "project_id": "ai-based-medical",
+    "storage_bucket": "ai-based-medical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211913645742:android:4f8b98c1e67d8affb2973f",
+        "android_client_info": {
+          "package_name": "com.example.ai_based_medical_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211913645742-hp5h3jgf56magjhcqbcfpgodn8gpgsr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC014vA5k-8evm8sQAsMd5apviAudptdIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211913645742-hp5h3jgf56magjhcqbcfpgodn8gpgsr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
